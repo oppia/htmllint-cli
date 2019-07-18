@@ -6,6 +6,10 @@
     "htmllint": "./bin/cli.js"
   },
   "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/htmllint/htmllint-cli.git"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/htmllint/htmllint-cli/issues"
